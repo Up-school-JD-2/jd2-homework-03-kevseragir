@@ -5,5 +5,5 @@
  * @author Kevser
  *
  */
-module odev3 {
+module homework3 {
 }
