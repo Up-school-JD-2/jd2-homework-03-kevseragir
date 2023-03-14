@@ -1,11 +1,11 @@
 package odev3;
 
+import java.util.ArrayList;
+
 public class Oyuncu {
 
-	public static void main(String[] args) {
-		String oyuncuAdi;
-		int denemeSayi;
-		
-	}
-
+	 
+		public String oyuncuAdi;
+		public int denemeSayi;
+	
 }
